@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "958260915007",
+    "project_id": "wall-e-aeec1",
+    "storage_bucket": "wall-e-aeec1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958260915007:android:4ef9cb351df95234a1018a",
+        "android_client_info": {
+          "package_name": "com.example.sem5_walle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958260915007-a15ics1joed1hinigr2p8a4eata6d9ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD63VQtXJGuRmQVtCs5X_GPy1erUX0RSjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958260915007-a15ics1joed1hinigr2p8a4eata6d9ov.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "958260915007-6l4gtrgnm8s6d9cstv8iu98lprrhnf21.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sem5Walle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
