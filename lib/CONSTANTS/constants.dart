@@ -1,1 +1,1 @@
-const String API_KEY = "AIzaSyAOmsvwXyKiy-yJWjbYIB47KgMi9O5fTyA";
+const String API_KEY = "ENTER YOU API KEY HERE";
