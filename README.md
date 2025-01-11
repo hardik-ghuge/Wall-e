@@ -3,6 +3,10 @@
 To use this project create an API key from Gemini Official Website & Paste it in the 
 ### Constants.dart file
 
+Also generate the firebaseoptions.dart file with flutterfire CLI 
+## Video For The Same Is Given Here
+- [Link](https://www.youtube.com/watch?v=k7TVYn5jwQk)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
