@@ -1,7 +1,7 @@
 # Wall-e
 
 To use this project create an API key from Gemini Official Website & Paste it in the 
-# Constants.dart file
+### Constants.dart file
 
 ## Getting Started
 
