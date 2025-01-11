@@ -1,6 +1,7 @@
-# sem5_walle
+# Wall-e
 
-A new Flutter project.
+To use this project create an API key from Gemini Official Website & Paste it in the 
+# Constants.dart file
 
 ## Getting Started
 
